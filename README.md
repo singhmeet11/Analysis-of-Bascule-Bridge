@@ -74,7 +74,23 @@ G
 <img src="https://render.githubusercontent.com/render/math?math=T_11cos(\beta) =0  ">
 
 ## Application using MATLAB
+#### Input
 The user will need to input the values of the Forces due to load (F1 and F2),
 the force due to the leaf and the force due to the angle at which the force on
 leaf is applied and the angle of truss.
+
+#### Output
+We will get the all the tensions as the function of (angle of inclination) and
+also plots which show how these vary as the bridge is lifted up from 0 degrees
+to 90 degrees.
+If we input the value of the Forces and angles as
+F1 = 10
+F2 = 10
+F = 20
+
+<img src="https://render.githubusercontent.com/render/math?math=\beta  "> = 45
+<img src="https://render.githubusercontent.com/render/math?math=\theta ">  = 45
+we get plots showing all the variables, all the plots can be found in attachments.
+
+
 
