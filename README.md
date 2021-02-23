@@ -21,4 +21,4 @@ base structure(F1 and F2) and also asks for the Force applied due to the leaf(th
 force which is used to lift the bridge up).
 **Equations obtained by method of joints are given below -**
 First we will be equating all the external forces-
-<img src="https://render.githubusercontent.com/render/math?math= Fcos(\theta)  %2BF_1sin(\alpha) +  %2BF)_2sin(\alpha) = A_x">
+<img src="https://render.githubusercontent.com/render/math?math= Fcos(\theta)  %2BF_1sin(\alpha) +  %2BF_2sin(\alpha) = A_x">
