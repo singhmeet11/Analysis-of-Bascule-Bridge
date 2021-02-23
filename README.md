@@ -40,5 +40,41 @@ B
 <img src="https://render.githubusercontent.com/render/math?math=%2BT_1cos(\beta) +  %2BFcos(\theta) = T_4 %2BT_2cos(\beta)  ">
 
 
+<img src="https://render.githubusercontent.com/render/math?math=Fsin(\theta) = T_3sin(\beta) %2BT_1sin(\beta)  ">
 
+C
+
+<img src="https://render.githubusercontent.com/render/math?math=T_3cos(\beta) +  %2BF_1sin(\alhpa) %2BT_2= T_6 %2BT_5cos(\beta)  ">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=T_3sin(\beta) + %2BT_5sin(\beta) = F_1cos(\alpha)  ">
+
+D
+
+<img src="https://render.githubusercontent.com/render/math?math=T_5 %2BT_5sin(\beta)  = T_3 %2BT_7cos(\beta)  ">
+
+<img src="https://render.githubusercontent.com/render/math?math=T_5sin(\beta) %2BT_7sin(\beta)  =0  ">
+
+E 
+
+<img src="https://render.githubusercontent.com/render/math?math=T_7sin(\beta) +  %2BF_2sin(\alhpa) %2BT_6= T_1 %2BT_9cos(\beta)  ">
+
+<img src="https://render.githubusercontent.com/render/math?math=T_7sin(\alpha) %2BT_9sin(\beta) = F_2cos(\alpha)  ">
+
+F
+
+<img src="https://render.githubusercontent.com/render/math?math=T_11cos(\beta) = T_9cos(\beta) %2BT_8  ">
+
+<img src="https://render.githubusercontent.com/render/math?math=T_11sin(\beta) %2BT_9sin(\beta)=0  ">
+
+G
+
+<img src="https://render.githubusercontent.com/render/math?math=T_11cos(\beta) %2BT_10 =0  ">
+
+<img src="https://render.githubusercontent.com/render/math?math=T_11cos(\beta) =0  ">
+
+## Application using MATLAB
+The user will need to input the values of the Forces due to load (F1 and F2),
+the force due to the leaf and the force due to the angle at which the force on
+leaf is applied and the angle of truss.
 
