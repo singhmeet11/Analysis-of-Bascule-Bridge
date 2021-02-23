@@ -31,3 +31,14 @@ First we will be equating all the external forces-
 A
 
 <img src="https://render.githubusercontent.com/render/math?math=T_1cos(\beta) %2BT_2  %2BA_x = 0 ">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=-T_1sin(\beta) = A_y ">
+
+B
+
+<img src="https://render.githubusercontent.com/render/math?math=%2BT_1cos(\beta) +  %2BFcos(\theta) = T_4 %2BT_2cos(\beta)  ">
+
+
+
+
